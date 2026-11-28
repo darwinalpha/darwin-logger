@@ -1,6 +1,6 @@
 # darwin-logger
 
-[English](README.md) · [简体中文](README.cn.md)
+[English](https://github.com/darwinalpha/darwin-logger/blob/main/README.md) · [简体中文](https://github.com/darwinalpha/darwin-logger/blob/main/README.cn.md)
 
 Zero-dependency structured logging for Darwin CLI tools and data scripts. It is a small configuration layer on top of the Python standard library `logging`: you still get ordinary `logging.Logger` objects, but setup, colors, file rotation and JSON output are handled in one place.
 

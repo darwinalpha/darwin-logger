@@ -1,6 +1,6 @@
 # darwin-logger
 
-English · [简体中文](README.cn.md)
+[English](https://github.com/darwinalpha/darwin-logger/blob/main/README.md) · 简体中文
 
 面向 Darwin CLI 工具与数据脚本的零依赖结构化日志库。它是在 Python 标准库 `logging` 之上的一层很薄的配置层：你拿到的仍是标准 `logging.Logger`，但初始化、颜色、文件轮转与 JSON 输出都集中在一处处理。
 
